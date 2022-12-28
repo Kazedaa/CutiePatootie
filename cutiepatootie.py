@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 import random
 import emoji
-#comment this to check diffence in git commit
+#comment this to check diffence in git commit...fixing the commit 
 
 intent=discord.Intents.all()
 intent.message_content=True
