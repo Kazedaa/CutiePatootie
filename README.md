@@ -26,3 +26,23 @@ CatBot is a simple Discord bot built with Python that posts random cat pictures 
 ```bash
 git clone https://github.com/yourusername/CatBot.git
 cd CatBot
+```
+
+2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Set up your Environment Variables
+   Create a .env file in the root directory and add your Discord Bot Token
+   ```
+   DISCORD_TOKEN=your-discord-bot-token
+   ```
+4. Run The Bot
+   ```bash
+   python Cutiepatootie.py
+   ```
+
+### Usage 
+1. 
