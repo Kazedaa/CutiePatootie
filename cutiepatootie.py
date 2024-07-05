@@ -78,7 +78,7 @@ async def gib(context):
 
 @cutie.event
 async def on_ready():
-    bot=cutie.get_channel(957896447880208424)
+    bot=cutie.get_channel() #<-Enter channel ID 
     intro_em=discord.Embed(title = "Hello!!!",description='type --h to access help bar',color=0xff1e0e)
     intro_em.set_footer(text='meow meow mathah fuckaaa!\nuse --h to access helper',icon_url='https://imgs.search.brave.com/lwnIMY4a5Aazaj7kGFwgoxYtf2JLrUBqQEwF1Dg839g/rs:fit:474:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5N/R3N1WDkxS2oxaEtu/Zkh3N3BxZm5nSGFI/YSZwaWQ9QXBp')
     await bot.send(embed=intro_em)
