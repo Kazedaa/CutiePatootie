@@ -4,6 +4,12 @@
 
 CatBot is a simple Discord bot built with Python that posts random cat pictures to your server.
 
+![image](https://github.com/Kazedaa/CutiePatootie/assets/120291477/5240f8e3-df44-4de3-92df-4931a3d6671f) 
+
+![image](https://github.com/Kazedaa/CutiePatootie/assets/120291477/5cc8a0de-a0d9-40e7-a3ee-4cdc41fd7707)
+
+![image](https://github.com/Kazedaa/CutiePatootie/assets/120291477/8bdf61e7-01ea-4712-a13d-9d4595b14ff4)
+
 ## Features
 
 - Posts random cat pictures
