@@ -55,4 +55,4 @@ Invite CatBot to your server using your bot's invite link. Once added, you can u
 3. --gib : This command gives a random picture of a cat
 
 ### Built With 
-   [Discord.py](https://discordpy.readthedocs.io/en/stable/#)
+   - [Discord.py](https://discordpy.readthedocs.io/en/stable/#)
